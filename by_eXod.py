@@ -1,5 +1,5 @@
 # This solution belongs to user https://www.codingame.com/profile/d3629ca7ea9f246d1b7f03624c916e32376474
-# User Ryba published it over 1 year ago
+# User eXod published it over 1 year ago
 
 import sys, math
 
