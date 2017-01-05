@@ -6,3 +6,6 @@ This rep stores different Python solutions for [Mars Lander - Episode 2](https:/
 * [by Amnesix](by_Amnesix.py)
 * [by eXod](by_eXod.py)
 * [by Ryba](by_Ryba.py)
+
+
+The [next level](https://www.codingame.com/training/expert/mars-lander-episode-3).
